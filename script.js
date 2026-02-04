@@ -14,7 +14,7 @@ function handleSearch() {
     'Kyoto - Cultural Treasure',
     'Cape Town - Scenic Beauty',
     'New York - Urban Adventure',
-    'Bali - Tropical Paradise'
+    'Bali - Tropical Paradise 123'
   ];
 
   const filtered = recommendations.filter(place =>
@@ -47,3 +47,13 @@ function handleSearch() {
   // Start both carousels
   startCarousel("beach-carousel");
   startCarousel("temple-carousel");
+
+
+
+  //TechStack Class 
+
+  /*
+  Git hub 3 Feb 26
+
+
+  */
